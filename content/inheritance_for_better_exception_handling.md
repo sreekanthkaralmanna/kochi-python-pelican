@@ -1,10 +1,12 @@
 Title: Inheritance for better exception handling
 Date: 2014-11-25 10:35
-Category: Python Programming technique
+Category: Python Programming
 Tags: python, exception handling
 Author: Varghese Chacko
 Email: vctheguru@gmail.com
 about_author: Just another Python/Perl Hacker
+Summary: In most programming languages that supports exception handling, the base class for all exceptions are called ```Exception```. Let me explain a scenario I recently used. This article uses Python sample codes.
+
 
 In most programming languages that supports exception handling, the base class for all exceptions are called ```Exception```. Let me explain a scenario I recently used. This article uses Python sample codes.
 

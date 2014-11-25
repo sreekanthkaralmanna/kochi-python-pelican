@@ -61,4 +61,4 @@ bower/
 *.log
 
 # project related files
-docs/html/
+*.pid
